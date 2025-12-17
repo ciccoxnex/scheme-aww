@@ -1,4 +1,4 @@
-name: deploy Mlsoccer
+name: deploy Free-theDev
 
 on:
   push:
